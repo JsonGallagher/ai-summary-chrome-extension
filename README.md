@@ -76,7 +76,7 @@ This project is open-sourced under the MIT License.
 
 ## Acknowledgements
 
-- OpenAI for providing the ChatGPT-4 API.
+- OpenAI for providing the ChatGPT API.
 - The Chrome Extensions documentation for guidance on extension development.
 
 Thank you for your interest in our Chrome extension project! Your feedback and contributions are greatly appreciated.
