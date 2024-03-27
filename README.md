@@ -42,7 +42,13 @@ This Chrome extension offers a quick and efficient way to summarize web page con
 To facilitate communication with OpenAI's API, a local server needs to be set up:
 
 1. Navigate to the project's root directory in your terminal.
-2. Run the server using Node.js:
+2. Install dependencies:
+
+   ```sh
+   npm install
+   ```
+
+3. Run the server using Node.js:
 
    ```sh
    node server.js
