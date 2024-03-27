@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Quick Submit to OpenAI",
+  "name": "Summarize Webpage",
   "version": "1.0",
   "description": "Submit current page content to OpenAI's ChatGPT API.",
   "permissions": ["activeTab", "scripting"],
