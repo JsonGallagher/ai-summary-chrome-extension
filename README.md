@@ -1,6 +1,6 @@
 # Chrome Extension for ChatGPT-4 Summarization
 
-This Chrome extension offers a quick and efficient way to summarize web page content using OpenAI's ChatGPT-4 API. With a simple click, users can activate the extension to send the current page's content to our server, which then communicates with the ChatGPT-4 API to generate a concise summary. This tool is perfect for those looking to grasp the main points of web articles, blogs, and other online materials without reading the full text.
+This Chrome extension offers a quick and efficient way to summarize web page content using OpenAI's ChatGPT-4 API. With a simple click, users can activate the extension to send the current page's content to a node server, which then communicates with the ChatGPT-4 API to generate a concise summary. This tool is perfect for those looking to grasp the main points of web articles, blogs, and other online materials without reading the full text.
 
 ## Features
 
