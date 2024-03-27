@@ -15,18 +15,15 @@ This Chrome extension offers a quick and efficient way to summarize web page con
 - Google Chrome browser.
 - Node.js installed on your local machine for server setup.
 
-### Installation
+## Installation
+
+### Clone repo
 
 1. Clone the GitHub repository to your local machine.
 
    ```sh
    git clone <repository-url>
    ```
-
-2. Navigate to `chrome://extensions/` in the Chrome browser.
-3. Toggle on "Developer mode" at the top-right corner.
-4. Click "Load unpacked" and navigate to the directory containing the cloned extension files.
-5. Select the directory to install the extension.
 
 ### API Key Configuration
 
@@ -53,6 +50,13 @@ To facilitate communication with OpenAI's API, a local server needs to be set up
    ```sh
    node server.js
    ```
+
+### Install chrome extension
+
+1. Navigate to `chrome://extensions/` in the Chrome browser.
+2. Toggle on "Developer mode" at the top-right corner.
+3. Click "Load unpacked" and navigate to the directory containing the cloned extension files.
+4. Select the directory to install the extension.
 
 ## Usage
 
