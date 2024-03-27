@@ -30,7 +30,7 @@ This Chrome extension offers a quick and efficient way to summarize web page con
 
 ### API Key Configuration
 
-1. Within the project directory, create a `.env` file.
+1. Within the openai-server directory, create a `.env` file.
 2. Add the following line, replacing `<your-api-key>` with your actual OpenAI API key:
 
    ```env
