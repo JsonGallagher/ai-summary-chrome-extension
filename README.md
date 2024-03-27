@@ -64,7 +64,7 @@ After installation and server setup:
 
 1. Click on the extension icon in the Chrome toolbar.
 2. The extension will automatically send the current page content to the server, which then submits it to OpenAI's API for summarization.
-3. A popup will display the summarized content.
+3. Summarized content will be logged to the console.
 
 ## Contributing
 
