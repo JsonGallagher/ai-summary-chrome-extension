@@ -12,7 +12,6 @@ This Chrome extension offers a quick and efficient way to summarize web page con
 - Fast and accurate summarization of online text content.
 - Secure handling of data with user privacy in mind.
 
-
 ## Getting Started
 
 ### Prerequisites
